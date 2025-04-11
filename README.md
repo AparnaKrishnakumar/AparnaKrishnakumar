@@ -1,7 +1,9 @@
 # 👋 Hello there! I'm Aparna
 
 🎯 **Data Analyst** | **AI Developer** | MSc in AI
+
 📍 Currently in Dubai, actively job hunting – open to Data & AI roles
+
 💡 I build smart systems, clean data, and make dashboards that *slap*
 
 ---
