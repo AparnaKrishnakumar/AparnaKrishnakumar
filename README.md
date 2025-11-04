@@ -3,14 +3,8 @@
   <img src="https://github.com/AparnaKrishnakumar/AparnaKrishnakumar/blob/main/assets/banner.png" alt="Aparna Krishnakumar Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#ff6f61;">Aparna</span></h1>
-
 <p align="center">
-  <b>Senior Software Engineer | AI Developer | MSc in Artificial Intelligence</b>  
-  <br>
-  Building smart systems, clean data, and dashboards that <i>slap</i> ⚡  
-  <br>
-  <br>
+
   <a href="https://www.linkedin.com/in/aparna-krishnakumar-957878176">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
