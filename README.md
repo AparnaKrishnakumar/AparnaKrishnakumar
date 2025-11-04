@@ -123,9 +123,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/AparnaKrishnakumar/AparnaKrishnakumar/blob/main/assets/footer_wave.svg" width="100%">
-</p>
-
-<p align="center">
   <i>“Building the future, one intelligent system at a time.”</i>
 </p>
