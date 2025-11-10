@@ -12,7 +12,7 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics }}
           user: AparnaKrishnakumar
           template: classic
           base: header, activity, community, repositories, metadata
