@@ -1,127 +1,111 @@
-<!-- Banner -->
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/AparnaKrishnakumar/AparnaKrishnakumar/blob/main/assets/banner.png" alt="Aparna Krishnakumar Banner" width="100%">
+  <img src="https://github.com/AparnaKrishnakumar/AparnaKrishnakumar/blob/main/assets/banner.png" width="100%" alt="Aparna Krishnakumar Banner">
 </p>
 
+<h1 align="center">👩‍💻 Aparna Krishnakumar</h1>
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/aparna-krishnakumar-957878176">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:krishnakumaraparna7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/AparnaKrishnakumar">
-    <img src="https://img.shields.io/github/followers/AparnaKrishnakumar?label=Follow&style=social">
-  </a>
+  MSc in Artificial Intelligence • Senior Software Engineer & Technical Lead @ Xplor  
+  <br>
+  <a href="https://github.com/AparnaKrishnakumar">GitHub</a> • 
+  <a href="mailto:krishnakumaraparna7@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/aparna-krishnakumar-957878176/">LinkedIn</a>
 </p>
 
 ---
 
-### 🌟 About Me
+### 🧭 **About Me**
 
-🎨 *Engineer by profession, artist by soul — I design intelligent systems that think, learn, and inspire.*
+I’m a **Senior Software Engineer and Technical Lead** passionate about blending **AI, software systems, and creative innovation**.  
+My background in **Artificial Intelligence (MSc)** and years of building production systems at **Xplor** drive my curiosity to make technology that *learns, adapts, and inspires*.  
 
-- 🧠 **Senior Software Engineer & AI Lead** at **Xplor**
-- 🎓 MSc in **Artificial Intelligence**
-- 🌍 Currently in **Dubai**, open to **AI / Data / Cloud** opportunities  
-- 🪄 Passionate about **GenAI**, **Agentic Systems**, **Simulations**, and **Creative Tech**
-
-> “I don’t just code systems — I craft experiences powered by intelligence and imagination.”
+> I design intelligent systems, automate complex workflows, and craft dashboards that turn data into decisions.
 
 ---
 
-## ⚗️ What I’m Brewing
-
-| 🔬 Project | 🚀 Description | 🧰 Tech Stack |
-|------------|----------------|---------------|
-| 🤖 [AI Resume Screener](https://github.com/AparnaKrishnakumar/AI-Resume-Screener) | NLP-powered screening for job seekers | LangChain, OpenAI, Streamlit |
-| 📊 [Retail Analytics Dashboard](https://github.com/AparnaKrishnakumar/Retail_Analysis_Dashboard) | Power BI storytelling for retail insights | Power BI, SQL, Python |
-| 📈 Real-time ML + Data Drift Dashboard | Live data & model monitoring | Python, Streamlit, Pandas |
-| 🌊 [Flood Evacuation Simulation](https://github.com/AparnaKrishnakumar/LondonTubesFloodSimulation) | Agent-based evacuation modeling | GAMA, Python, GIS |
-
----
-
-## 🧩 My Craft Toolbox
-
-#### 💻 Languages
-`Python` • `SQL` • `C#` • `R` • `Java` • `JavaScript`
-
-#### 🧠 Frameworks & Libraries
-`Scikit-learn` • `TensorFlow` • `Hugging Face` • `LangChain` • `.NET`
-
-#### 📊 Dashboards & Analytics
-`Power BI` • `Excel` • `Streamlit` • `Plotly`
-
-#### ☁️ Cloud & DevOps
-`AWS` • `Azure` • `GCP` • `Docker` • `CI/CD Pipelines`
-
-#### 🔮 Specialties
-`Machine Learning` • `Data Visualization` • `Agentic AI` • `Simulation & Optimization` • `AI Deployment`
+### ⚡ **Quick Snapshot**
+| Metric | Insight |
+|:--|:--|
+| 🧠 **Core Expertise** | AI • Data Systems • Cloud • Software Architecture |
+| 💡 **Currently Exploring** | Agentic AI • GenAI • Autonomous Workflows |
+| ☁️ **Cloud** | AWS • Azure • Docker • CI/CD |
+| 📊 **Dashboards** | Power BI • Streamlit • Plotly |
+| 🧩 **Frameworks** | LangChain • TensorFlow • Hugging Face • scikit-learn |
+| 🎨 **Creative Edge** | Design-led innovation • AI for simulation & visualization |
 
 ---
 
-## 🧱 Featured Projects
+### 🛠️ **Tech Stack**
+
+**Languages:** Python, SQL, C#, R, Java  
+**Frameworks:** scikit-learn, TensorFlow, .NET, LangChain  
+**Tools:** Docker, Power BI, Streamlit, GitHub Actions  
+**Cloud:** AWS, Azure, GCP  
+**Others:** Simulation (GAMA), CI/CD, DevOps, REST APIs  
+
+---
+
+### 🚀 **Current Focus**
+
+🌱 Building intelligent dashboards  
+🧠 Designing GenAI systems  
+☁️ Deploying ML models on cloud  
+🎨 Integrating AI with visual design  
+
+---
+
+### 🧩 **Featured Projects**
+| 🧠 Project | 🌐 Description | 🛠️ Stack |
+|-------------|----------------|-----------|
+| [AI Resume Screener](#) | NLP-driven resume analysis and ranking system | Python • Streamlit • LangChain |
+| [Retail Analytics Dashboard](#) | Data storytelling with Power BI & SQL backend | Power BI • Python • SQL |
+| [Flood Simulation](#) | Agent-based flood evacuation modeling | GAMA • Python |
+| [Cloud CI/CD Pipelines](#) | Automated deployment for scalable systems | AWS • Docker • GitHub Actions |
+
+---
+
+### 🧠 **GitHub Metrics Dashboard**
 
 <p align="center">
-  <a href="https://github.com/AparnaKrishnakumar/AirportSimulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AparnaKrishnakumar&repo=AirportSimulation&theme=radical" />
-  </a>
-  <a href="https://github.com/AparnaKrishnakumar/HMD_DATA_ANALYSIS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AparnaKrishnakumar&repo=HMD_DATA_ANALYSIS&theme=radical" />
-  </a>
+  <img src="https://github.com/AparnaKrishnakumar/AparnaKrishnakumar/blob/main/github-metrics.svg" alt="GitHub Metrics" width="85%">
 </p>
 
+> To generate your metrics, enable the **GitHub Metrics Action**:  
+> 🔗 [https://github.com/lowlighter/metrics](https://github.com/lowlighter/metrics)
+
+---
+
+### 🎶 **What Fuels My Code**
+🎧 *Focus Tracks:*  
+- *“Bloom” – Odesza*  
+- *“Experience” – Ludovico Einaudi*  
+- *“Ratri” – Indian Classical Flow Mix*  
+
+---
+
+### 📈 **GitHub Activity Overview**
+
 <p align="center">
-  <a href="https://github.com/AparnaKrishnakumar/Retail_Analysis_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AparnaKrishnakumar&repo=Retail_Analysis_Dashboard&theme=radical" />
-  </a>
-  <a href="https://github.com/AparnaKrishnakumar/LondonTubesFloodSimulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AparnaKrishnakumar&repo=LondonTubesFloodSimulation&theme=radical" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AparnaKrishnakumar&theme=transparent&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AparnaKrishnakumar&layout=compact&theme=transparent&hide_border=true" width="330">
 </p>
 
 ---
 
-## ⚙️ GitHub Stats & Streak
+### 🌸 **Let’s Connect**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AparnaKrishnakumar&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AparnaKrishnakumar&theme=radical" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AparnaKrishnakumar&layout=compact&theme=radical" height="150">
-</p>
-
----
-
-## 🧠 Fun & Creativity
-
-> 💡 *"Between logic and art lies innovation — where I love to build."*
-
-- 🎨 Exploring **AI-generated art** and **creative visualizations**  
-- 🌐 Writing about **AI + design + problem-solving**  
-- ☕ Fuelled by **data, curiosity, and caffeine**
-
----
-
-## 🌐 Let’s Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aparna-krishnakumar-957878176/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:krishnakumaraparna7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/AparnaKrishnakumar">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
+  <a href="mailto:krishnakumaraparna7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aparna-krishnakumar-957878176/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/AparnaKrishnakumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Building the future, one intelligent system at a time.”</i>
+  <img src="https://github.com/AparnaKrishnakumar/AparnaKrishnakumar/blob/main/assets/footer_wave.svg" width="100%">
+</p>
+
+<p align="center">
+  <i>“Engineering intelligent systems that blend data, design, and innovation.”</i>
 </p>
