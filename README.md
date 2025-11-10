@@ -3,14 +3,6 @@
   <img src="https://github.com/AparnaKrishnakumar/AparnaKrishnakumar/blob/main/assets/banner.png" width="100%" alt="Aparna Krishnakumar Banner">
 </p>
 
-<h1 align="center">👩‍💻 Aparna Krishnakumar</h1>
-<p align="center">
-  MSc in Artificial Intelligence • Senior Software Engineer & Technical Lead @ Xplor  
-  <br>
-  <a href="https://github.com/AparnaKrishnakumar">GitHub</a> • 
-  <a href="mailto:krishnakumaraparna7@gmail.com">Email</a> • 
-  <a href="https://www.linkedin.com/in/aparna-krishnakumar-957878176/">LinkedIn</a>
-</p>
 
 ---
 
