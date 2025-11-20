@@ -56,14 +56,6 @@ My background in **Artificial Intelligence (MSc)** and years of building product
 
 ---
 
-### 🧠 **GitHub Metrics Dashboard**
-
-<p align="center">
-  <img src="https://github.com/AparnaKrishnakumar/AparnaKrishnakumar/blob/main/github-metrics.svg" alt="GitHub Metrics" width="85%">
-</p>
-
-> To generate your metrics, enable the **GitHub Metrics Action**:  
-> 🔗 [https://github.com/lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 ---
 
